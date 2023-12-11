@@ -1,0 +1,31 @@
+header { 
+    font-size: 152px;
+    color: red;
+
+
+}
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: gold;
+}
+#meme {
+    position: absolute;
+    width: 300px;
+    height: auto;
+}
+.button {
+    padding: 10px 20px;
+    margin: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#startButton:hover {
+    background-color: green;
+}
+
+#stopButton:hover {
+    background-color: red;
+}
